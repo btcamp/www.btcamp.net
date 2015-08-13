@@ -1,0 +1,89 @@
+.boxed p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
+}
+blockquote p{
+    font-size: 1.4em;
+    text-indent: 1em;
+}
+.contact-info li{
+    display: block;
+    line-height: 40px;
+    font-size: 15px;
+}
+.contact-info li i{
+    font-size: 16px;
+    width: 20px;
+    text-align: center;
+}
+.add{
+    margin:30px auto 0;
+}
+.add a{
+    color: #14B2E0;
+    border: 1px solid;
+    word-wrap:normal;
+}
+.add a:hover,.add a:focus{
+    background: #14B2E0 ;
+    border:1px solid white;
+}
+@media (max-width: 550px) {
+    .technology .boxed p{
+        height: 45px;
+    }
+    .add a{
+       font-size: 0.9em;
+    }
+    .add .btn-animated i{
+        line-height: 40px !important;
+    }
+    .add .btn{
+        padding: 10px ;
+    }
+}
+@media (max-width: 1200px) and(min-width: 1000px){
+    .technology .boxed p{
+        height: 45px;
+    }
+}
+.contact{
+    padding-bottom: 30px;
+}
+.submit-button{
+    float: right;
+    position: relative;
+    top: 10px;
+}
+.coo-img{
+    margin-top: 20px;
+}
+.cooperation{
+    margin-top: 20px;
+}
+.coo-tittle{
+    padding-top: 30px;
+}
+.footer-content p{
+    font-size: 1.2em;
+
+}
+.navbar-right li:hover{
+    background: rgb(240, 240, 240);
+}
+.tp-caption P{
+    background: rgba(0, 0, 0, 0.5);
+    padding:0 10px;
+    font-weight: 500;
+}
+.tp-caption p,.tp-caption a{
+    font-family: "黑体";
+}
+.douban{
+    height: 110px;
+}
+.douban img{
+    height: 100%;
+    margin: auto;
+}
