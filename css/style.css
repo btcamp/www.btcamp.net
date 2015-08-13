@@ -17,7 +17,7 @@ html {
 body {
   font-size: 15px;
   line-height: 1.46666667;
-  color: #344e69;
+  color: #2b4057;
   background-color: #f8f8f8;
   font-weight: 300;
 }
@@ -943,8 +943,8 @@ tbody {
     border: 1px solid #2e3537;
   }
   .fixed-header-on .main-navigation .navbar-nav > li > a {
-    padding-top: 21px!important;
-    padding-bottom: 21px!important;
+    padding-top: 22px!important;
+    padding-bottom: 20px!important;
   }
   .fixed-header-on .header:not(.centered) .main-navigation .navbar-nav > .dropdown > a:before {
     top: 24px;
@@ -4463,7 +4463,10 @@ header.full-width .animated.main-navigation .dropdown-menu .open .dropdown-menu.
     margin: 0;
   }
   .navbar-default .navbar-nav > li > a {
-    padding: 28px 15px 27px 15px;
+    padding: 24px 15px 22px 15px;
+  }
+  .header .logo{
+    margin-top: -2px;
   }
   /*centered logo layout*/
   .header.centered .navbar-default .navbar-nav > li > a {
