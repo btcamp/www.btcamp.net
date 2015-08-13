@@ -77,9 +77,6 @@ blockquote p{
     padding:0 10px;
     font-weight: 500;
 }
-.tp-caption p,.tp-caption a{
-    font-family: "黑体";
-}
 .douban{
     height: 110px;
 }

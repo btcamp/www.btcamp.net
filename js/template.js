@@ -600,7 +600,7 @@
 		$(window).scroll(function() {
 			if (($(".header.fixed").length > 0)  && !($(".transparent-header .slideshow").length>0)) {
 				if (($(this).scrollTop() > headerTopHeight + headerHeight) && ($(window).width() > 767)) {
-					$("body").addClass("fixed-header-on");
+					$("body").addClass("fixfooter-formed-header-on");
 					$(".header.fixed").addClass('animated object-visible fadeInDown');
 					$(".header-container").css("paddingBottom", (headerHeight)+"px");
 				} else {
@@ -1030,23 +1030,21 @@
 							"name": $("#footer-form #name2").val(),
                             "phone": $("#footer-form #phone2").val(),
 							"email": $("#footer-form #email2").val(),
-							"subject": "联系表的信息",
 							"message": $("#footer-form #message2").val()
 						},
 						dataType: "json",
 						success: function (data) {
-							if (data.info == "yes") {
-								$("#MessageSent2").removeClass("hidden");
-								$("#MessageNotSent2").addClass("hidden");
-								$(".submit-button").removeClass("btn-default").addClass("btn-success").prop('value', 'Message Sent');
-								$("#footer-form .form-control").each(function() {
-									$(this).prop('value', '').parent().removeClass("has-success").removeClass("has-error");
-								});
-							} else {
-								$("#MessageNotSent2").removeClass("hidden");
-								$("#MessageSent2").addClass("hidden");
-							}
-						}
+                            $("#MessageSent2").removeClass("hidden");
+                            $("#MessageNotSent2").addClass("hidden");
+                            $(".submit-button").removeClass("btn-default").addClass("btn-success").prop('value', '发送成功');
+                            $("#footer-form .form-control").each(function() {
+                                $(this).prop('value', '').parent().removeClass("has-success").removeClass("has-error");
+                            });
+						},
+                        error:function(){
+                            $("#MessageNotSent2").removeClass("hidden");
+                            $("#MessageSent2").addClass("hidden");
+                        }
 					});
 				},
 				// debug: true,
