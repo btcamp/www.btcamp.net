@@ -1023,29 +1023,29 @@
             $("#footer-form").validate({
                 submitHandler: function (form) {
                     $('.submit-button').button("loading");
-                    $.ajax({
-                        type: "POST",
-                        url: "/Email/Send",
-                        data: {
-                            "name": $("#footer-form #name2").val(),
-                            "phone": $("#footer-form #phone2").val(),
-                            "email": $("#footer-form #email2").val(),
-                            "message": $("#footer-form #message2").val()
-                        },
-                        dataType: "json",
-                        success: function (data) {
+                    var data = {
+                        "name": $("#footer-form #name2").val(),
+                        "phone": $("#footer-form #phone2").val(),
+                        "email": $("#footer-form #email2").val(),
+                        "message": $("#footer-form #message2").val()
+                    };
+                    $.get("/Email/Send", data, function (result) {
+                        console.log(result);
+                        if (true) {
                             $("#MessageSent2").removeClass("hidden");
                             $("#MessageNotSent2").addClass("hidden");
                             $(".submit-button").removeClass("btn-default").addClass("btn-success").prop('value', '发送成功');
                             $("#footer-form .form-control").each(function () {
                                 $(this).prop('value', '').parent().removeClass("has-success").removeClass("has-error");
                             });
-                        },
-                        error: function () {
+                        }
+                        else {
                             $("#MessageNotSent2").removeClass("hidden");
                             $("#MessageSent2").addClass("hidden");
                         }
-                    });
+
+                    }, "json");
+
                 },
                 // debug: true,
                 errorPlacement: function (error, element) {
