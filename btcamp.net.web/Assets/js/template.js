@@ -1030,7 +1030,6 @@
                         "message": $("#footer-form #message2").val()
                     };
                     $.get("/Email/Send", data, function (result) {
-                        console.log(result);
                         if (true) {
                             $("#MessageSent2").removeClass("hidden");
                             $("#MessageNotSent2").addClass("hidden");
