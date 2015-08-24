@@ -84,3 +84,8 @@ blockquote p{
     height: 100%;
     margin: auto;
 }
+.contact_d{
+    font-size:0.8em;
+    color: #000000;
+    text-align: center;
+}

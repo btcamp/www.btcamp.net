@@ -4033,7 +4033,6 @@ fieldset[disabled] .form-control {
   transition: all 0.2s ease-in-out;
   width: 80px;
   height: 80px;
-  border: 1px solid #ffffff;
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
   border-radius: 100%;
@@ -4046,8 +4045,7 @@ fieldset[disabled] .form-control {
   line-height: 80px;
 }
 .overlay-link i:hover {
-  background-color: #ffffff;
-  color: #777777;
+  color: #FFFFFF;
 }
 .overlay-link.small i {
   width: 25px;

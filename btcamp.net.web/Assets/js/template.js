@@ -1016,7 +1016,6 @@
                 container: 'body'
             });
         };
-
         // Contact forms validation
         //-----------------------------------------------
         if ($("#footer-form").length > 0) {
@@ -1037,14 +1036,16 @@
                             $("#footer-form .form-control").each(function () {
                                 $(this).prop('value', '').parent().removeClass("has-success").removeClass("has-error");
                             });
+                            setTimeout(function(){
+                                $("#MessageSent2").addClass("hidden");
+                                $(".submit-button").attr("class","margin-clear submit-button btn btn-default").prop('value', '发送');
+                            },5000);
                         }
                         else {
                             $("#MessageNotSent2").removeClass("hidden");
                             $("#MessageSent2").addClass("hidden");
                         }
-
                     }, "json");
-
                 },
                 // debug: true,
                 errorPlacement: function (error, element) {

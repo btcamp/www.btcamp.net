@@ -2,95 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef97f06b-3917-4b2b-b7c5-2e9c630659e1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/btcamp.net.web/Properties/AssemblyInfo.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Controllers/EmailController.cs" afterPath="$PROJECT_DIR$/btcamp.net.web/Controllers/EmailController.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/App_Start/FilterConfig.cs" afterPath="$PROJECT_DIR$/btcamp.net.web/App_Start/FilterConfig.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Global.asax.cs" afterPath="$PROJECT_DIR$/btcamp.net.web/Global.asax.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Global.asax" afterPath="$PROJECT_DIR$/btcamp.net.web/Global.asax" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/net20/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/net20/Newtonsoft.Json.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/net35/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/net35/Newtonsoft.Json.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/net40/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/net40/Newtonsoft.Json.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/portable-net40%2Bsl4%2Bwp7%2Bwin8/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/portable-net40%2Bsl4%2Bwp7%2Bwin8/Newtonsoft.Json.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/sl3-wp/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/sl3-wp/Newtonsoft.Json.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/sl4/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/sl4/Newtonsoft.Json.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/sl4-windowsphone71/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/sl4-windowsphone71/Newtonsoft.Json.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/winrt45/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.4.5.11/lib/winrt45/Newtonsoft.Json.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/App_Start/RouteConfig.cs" afterPath="$PROJECT_DIR$/btcamp.net.web/App_Start/RouteConfig.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Models/SendEmailViewModel.cs" afterPath="$PROJECT_DIR$/btcamp.net.web/Models/SendEmailViewModel.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/SmoothScroll.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/SmoothScroll.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.4.0.30506.0/lib/net40/System.Net.Http.Formatting.xml" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.4.0.30506.0/lib/net40/System.Net.Http.Formatting.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Http.2.0.20710.0/lib/net40/System.Net.Http.WebRequest.xml" afterPath="$PROJECT_DIR$/packages/Microsoft.Net.Http.2.0.20710.0/lib/net40/System.Net.Http.WebRequest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.Net.Http.2.0.20710.0/lib/net40/System.Net.Http.xml" afterPath="$PROJECT_DIR$/packages/Microsoft.Net.Http.2.0.20710.0/lib/net40/System.Net.Http.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.2.0.30506.0/lib/net40/System.Web.Helpers.xml" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.2.0.30506.0/lib/net40/System.Web.Helpers.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.WebHost.4.0.30506.0/lib/net40/System.Web.Http.WebHost.xml" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.WebHost.4.0.30506.0/lib/net40/System.Web.Http.WebHost.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.4.0.30506.0/lib/net40/System.Web.Http.xml" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.4.0.30506.0/lib/net40/System.Web.Http.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.4.0.30506.0/lib/net40/System.Web.Mvc.xml" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Mvc.4.0.30506.0/lib/net40/System.Web.Mvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.2.0.30506.0/lib/net40/System.Web.Razor.xml" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.2.0.30506.0/lib/net40/System.Web.Razor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.2.0.30506.0/lib/net40/System.Web.WebPages.Deployment.xml" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.2.0.30506.0/lib/net40/System.Web.WebPages.Deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.2.0.30506.0/lib/net40/System.Web.WebPages.Razor.xml" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.2.0.30506.0/lib/net40/System.Web.WebPages.Razor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.2.0.30506.0/lib/net40/System.Web.WebPages.xml" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.2.0.30506.0/lib/net40/System.Web.WebPages.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Web.Debug.config" afterPath="$PROJECT_DIR$/btcamp.net.web/Web.Debug.config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Web.Release.config" afterPath="$PROJECT_DIR$/btcamp.net.web/Web.Release.config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Web.config" afterPath="$PROJECT_DIR$/btcamp.net.web/Web.config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Views/Web.config" afterPath="$PROJECT_DIR$/btcamp.net.web/Views/Web.config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/animate.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/animate.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/animation.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/animation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/animations.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/animations.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/blue.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/blue.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/css/bootstrap-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/brown.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/brown.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.sln" afterPath="$PROJECT_DIR$/btcamp.net.sln" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/btcamp.net.web.csproj" afterPath="$PROJECT_DIR$/btcamp.net.web/btcamp.net.web.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/cool_green.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/cool_green.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/custom.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/dark_cyan.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/dark_cyan.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/dark_red.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/dark_red.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/font-awesome/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/fontello-codes.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/fontello-codes.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/fontello-embedded.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/fontello-embedded.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/fontello-ie7-codes.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/fontello-ie7-codes.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/fontello-ie7.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/fontello-ie7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/fontello.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/css/fontello.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/font/fontello.svg" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/fonts/fontello/font/fontello.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/gold.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/gold.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/gray.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/gray.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/green.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/green.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/index.html" afterPath="$PROJECT_DIR$/btcamp.net.web/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/isotope.pkgd.min.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/isotope.pkgd.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.browser.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.magnific-popup.min.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.magnific-popup.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.themepunch.revolution.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.themepunch.revolution.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.themepunch.tools.min.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.themepunch.tools.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.validate.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.validate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.waypoints.min.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/jquery.waypoints.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/light_blue.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/light_blue.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/magnific-popup.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/magnific-popup.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/modernizr.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/modernizr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/bootstrap/js/npm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/orange.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/orange.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/owl.carousel.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/owl.carousel.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/packages.config" afterPath="$PROJECT_DIR$/btcamp.net.web/packages.config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/pink.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/pink.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/print-invoice.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/print-invoice.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/purple.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/purple.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/red.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/red.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/repositories.config" afterPath="$PROJECT_DIR$/packages/repositories.config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/settings.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/settings.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/style.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/js/template.js" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/js/template.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/vivid_red.css" afterPath="$PROJECT_DIR$/btcamp.net.web/Assets/css/skins/vivid_red.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.4.0.30506.0/content/web.config.transform" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.4.0.30506.0/content/web.config.transform" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/btcamp.net.web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/btcamp.net.web/.idea/workspace.xml" />
     </list>
     <ignored path="btcamp.net.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -116,9 +30,15 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/btcamp.net.web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6060606" vertical-offset="0" max-vertical-offset="14220">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-              <folding />
+            <state vertical-scroll-proportion="0.5588235" vertical-offset="1036" max-vertical-offset="7300">
+              <caret line="77" column="61" selection-start-line="77" selection-start-column="61" selection-end-line="77" selection-end-column="61" />
+              <folding>
+                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#section#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#section#1;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#section#2;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,8 +61,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1365" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -227,7 +149,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/btcamp.net.web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -242,26 +164,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1365" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -286,9 +208,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/btcamp.net.web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6060606" vertical-offset="0" max-vertical-offset="14220">
+        <state vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="14400">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#section#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#section#1;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#section#2;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btcamp.net.web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5588235" vertical-offset="1036" max-vertical-offset="7300">
+          <caret line="77" column="61" selection-start-line="77" selection-start-column="61" selection-end-line="77" selection-end-column="61" />
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#header#0;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#section#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#section#1;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#section#2;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
