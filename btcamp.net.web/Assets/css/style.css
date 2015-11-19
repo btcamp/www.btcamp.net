@@ -4460,10 +4460,7 @@ header.full-width .animated.main-navigation .dropdown-menu .open .dropdown-menu.
     margin: 0;
   }
   .navbar-default .navbar-nav > li > a {
-    padding: 24px 15px 22px 15px;
-  }
-  .header .logo{
-    margin-top: -2px;
+    padding: 26px 15px 22px 15px;
   }
   /*centered logo layout*/
   .header.centered .navbar-default .navbar-nav > li > a {
